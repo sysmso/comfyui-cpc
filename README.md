@@ -18,6 +18,7 @@ ensuite dans ComfyUI/custom_nodes
 installer les dépendances :
 
 ```uv pip install -r ../ComfyUI/requirements.txt```
+
 ```uv pip install gguf```
 
 
