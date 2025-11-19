@@ -15,6 +15,11 @@ ensuite dans ComfyUI/custom_nodes
 
 ```git clone https://github.com/city96/ComfyUI-GGUF```
 
+installer les dépendances :
+
+```uv pip install -r ../ComfyUI/requirements.txt```
+```uv pip install gguf```
+
 
 ## Fichiers
 
